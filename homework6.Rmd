@@ -1,5 +1,5 @@
  ---
-title: "homework 6"
+title: "homework 6 （還沒打完的我）"
 output: html_document
 params:
   studentName: "你的名字"
